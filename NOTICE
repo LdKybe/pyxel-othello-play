@@ -1,0 +1,11 @@
+Font: PixelMplus, Copyright (C) 2013 itouhiro
+https://github.com/itouhiro/PixelMplus
+
+External runtime: Pyxel 2.9.9, MIT License
+https://github.com/kitao/pyxel/tree/v2.9.9
+
+External runtime: Pyodide, MPL-2.0
+https://github.com/pyodide/pyodide
+The standard Pyxel loader selects the Pyodide runtime.
+Runtime sources are available at the URLs above.
+Font and runtime license texts are included in LICENSE.
