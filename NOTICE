@@ -6,6 +6,7 @@ https://github.com/kitao/pyxel/tree/v2.9.9
 
 External runtime: Pyodide, MPL-2.0
 https://github.com/pyodide/pyodide
-The standard Pyxel loader selects the Pyodide runtime.
+The standard Pyxel loader selects the main Pyodide runtime.
+CPU Worker: Pyodide 314.0.4, https://github.com/pyodide/pyodide/tree/314.0.4
 Runtime sources are available at the URLs above.
 Font and runtime license texts are included in LICENSE.
