@@ -10,3 +10,5 @@ The standard Pyxel loader selects the main Pyodide runtime.
 CPU Worker: Pyodide 314.0.4, https://github.com/pyodide/pyodide/tree/314.0.4
 Runtime sources are available at the URLs above.
 Font and runtime license texts are included in LICENSE.
+Bundled: attrs 26.1.0 (MIT), cattrs 26.1.0 (MIT), typing_extensions 4.16.0 (PSF-2.0).
+Their sources, package metadata and licenses are included in both archives.
